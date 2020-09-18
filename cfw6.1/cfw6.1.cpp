@@ -9,7 +9,7 @@ void x() {
 	{
 		printf("letters %d of your name  : ", i);
 		scanf("%s", &name[i]);
-
+		 
 	}
 	for (int j = 1; j <= c; j++)
 	{
